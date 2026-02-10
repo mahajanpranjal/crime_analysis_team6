@@ -118,7 +118,6 @@ The Tableau dashboards answer key business questions:
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/aishwarya4114/la-crime-pipeline.git
 cd la-crime-pipeline
 ```
 
